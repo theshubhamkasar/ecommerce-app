@@ -29,7 +29,6 @@ function Nav({handleInputChange, query}) {
           <AiOutlineUserAdd className="nav-icons" />
         </a>
 
-
       </div>
     </nav>
   );
